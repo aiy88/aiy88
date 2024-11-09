@@ -10,5 +10,5 @@
 aiy88/aiy88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-App.new.install("myname")
-# with {'force' => true} as options hash
+App.new.install("Mister.E")
+# with {'force' => inspect} as options hash
